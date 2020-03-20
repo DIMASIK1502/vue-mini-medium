@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "writer@mail.com",
+      "password": 123456,
+      "role": "writer"
+    },
+    {
+      "id": 2,
+      "login": "reader@mail.com",
+      "password": 123456,
+      "role": "reader"
+    }
+  ],
+  "posts": [
+    {
+      "createdAt": "2020-03-20T15:35:08+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:36:28+03:00",
+      "title": "icons available.",
+      "description": "asdgfdfg123123asdasdasdasdasdasd",
+      "id": 1
+    },
+    {
+      "createdAt": "2020-03-20T15:36:15+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:36:15+03:00",
+      "title": "of Regular icons available.",
+      "description": "Brands are separated into their own style and for customers upgrading from version 4 to 5 we have a limited number of Regular icons available.",
+      "id": 2
+    },
+    {
+      "createdAt": "2020-03-20T15:37:47+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T16:16:35+03:00",
+      "title": " test test22",
+      "description": "test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test test32",
+      "id": 3
+    },
+    {
+      "createdAt": "2020-03-20T15:37:55+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:37:55+03:00",
+      "title": "das",
+      "description": "d213213  test test test test",
+      "id": 4
+    },
+    {
+      "createdAt": "2020-03-20T15:38:55+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:38:55+03:00",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 5
+    },
+    {
+      "createdAt": "2020-03-20T15:39:06+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:39:06+03:00",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "id": 6
+    },
+    {
+      "createdAt": "2020-03-20T15:39:53+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:39:53+03:00",
+      "title": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 7
+    },
+    {
+      "createdAt": "2020-03-20T15:40:18+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:40:18+03:00",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 8
+    },
+    {
+      "createdAt": "2020-03-20T15:40:30+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:40:30+03:00",
+      "title": "Duis aute irure dolor in reprehenderit in v",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 9
+    },
+    {
+      "createdAt": "2020-03-20T15:40:51+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:40:51+03:00",
+      "title": "12414241412421421irure",
+      "description": "12414241412421421irureirureirure",
+      "id": 10
+    },
+    {
+      "createdAt": "2020-03-20T15:41:08+03:00",
+      "claps": 0,
+      "updatedAt": "2020-03-20T15:41:08+03:00",
+      "title": "uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "id": 11
+    },
+    {
+      "createdAt": "2020-03-20T15:41:13+03:00",
+      "claps": 43,
+      "updatedAt": "2020-03-20T16:23:59+03:00",
+      "title": "uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cuuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu",
+      "description": "uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cuuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cu",
+      "id": 12
+    },
+    {
+      "createdAt": "2020-03-20T16:21:46+03:00",
+      "claps": 18,
+      "updatedAt": "2020-03-20T16:24:10+03:00",
+      "title": "222",
+      "description": "asdasd",
+      "id": 14
+    }
+  ]
+}
